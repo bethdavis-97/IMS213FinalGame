@@ -1,0 +1,41 @@
+[0506/063214.924:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0506/063214.926:WARNING:pac_file_fetcher_impl.cc(268)] SSL certificate error when fetching PAC script, aborting.
+[0506/063214.972:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0506/063214.973:WARNING:pac_file_fetcher_impl.cc(268)] SSL certificate error when fetching PAC script, aborting.
+[0506/063222.970:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0506/063222.970:WARNING:pac_file_fetcher_impl.cc(268)] SSL certificate error when fetching PAC script, aborting.
+[0506/063223.014:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0506/063223.016:WARNING:pac_file_fetcher_impl.cc(268)] SSL certificate error when fetching PAC script, aborting.
+[0506/063410.394:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0506/065111.066:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0506/065111.067:WARNING:pac_file_fetcher_impl.cc(268)] SSL certificate error when fetching PAC script, aborting.
+[0506/065111.070:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0506/065111.070:WARNING:pac_file_fetcher_impl.cc(268)] SSL certificate error when fetching PAC script, aborting.
+[0506/065119.100:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0506/065119.100:WARNING:pac_file_fetcher_impl.cc(268)] SSL certificate error when fetching PAC script, aborting.
+[0506/065119.102:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0506/065119.102:WARNING:pac_file_fetcher_impl.cc(268)] SSL certificate error when fetching PAC script, aborting.
+[0506/065411.077:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0506/065411.078:WARNING:pac_file_fetcher_impl.cc(268)] SSL certificate error when fetching PAC script, aborting.
+[0506/065411.078:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0506/065411.078:WARNING:pac_file_fetcher_impl.cc(268)] SSL certificate error when fetching PAC script, aborting.
+[0506/065419.111:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0506/065419.112:WARNING:pac_file_fetcher_impl.cc(268)] SSL certificate error when fetching PAC script, aborting.
+[0506/065419.115:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0506/065419.115:WARNING:pac_file_fetcher_impl.cc(268)] SSL certificate error when fetching PAC script, aborting.
+[0506/074854.530:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0506/074854.530:WARNING:pac_file_fetcher_impl.cc(268)] SSL certificate error when fetching PAC script, aborting.
+[0506/075056.334:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0506/075056.334:WARNING:pac_file_fetcher_impl.cc(268)] SSL certificate error when fetching PAC script, aborting.
+[0506/083315.077:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0506/083315.078:WARNING:pac_file_fetcher_impl.cc(268)] SSL certificate error when fetching PAC script, aborting.
+[0506/083315.094:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0506/083315.094:WARNING:pac_file_fetcher_impl.cc(268)] SSL certificate error when fetching PAC script, aborting.
+[0506/083323.110:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0506/083323.111:WARNING:pac_file_fetcher_impl.cc(268)] SSL certificate error when fetching PAC script, aborting.
+[0506/083323.127:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0506/083323.127:WARNING:pac_file_fetcher_impl.cc(268)] SSL certificate error when fetching PAC script, aborting.
+[0506/083635.378:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0506/083635.381:WARNING:pac_file_fetcher_impl.cc(268)] SSL certificate error when fetching PAC script, aborting.
+[0506/085135.405:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0506/085135.405:WARNING:pac_file_fetcher_impl.cc(268)] SSL certificate error when fetching PAC script, aborting.

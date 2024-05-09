@@ -1,0 +1,11 @@
+[0507/012414.717:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0507/012414.719:WARNING:pac_file_fetcher_impl.cc(268)] SSL certificate error when fetching PAC script, aborting.
+[0507/012414.722:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0507/012414.722:WARNING:pac_file_fetcher_impl.cc(268)] SSL certificate error when fetching PAC script, aborting.
+[0507/012422.748:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0507/012422.748:WARNING:pac_file_fetcher_impl.cc(268)] SSL certificate error when fetching PAC script, aborting.
+[0507/012422.751:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0507/012422.752:WARNING:pac_file_fetcher_impl.cc(268)] SSL certificate error when fetching PAC script, aborting.
+[0507/012612.418:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0507/031653.857:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0507/031653.858:WARNING:pac_file_fetcher_impl.cc(268)] SSL certificate error when fetching PAC script, aborting.
